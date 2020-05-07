@@ -1,7 +1,6 @@
 {
     "githubPullRequests.remotes": [
         "origin",
-        "upstream",
-        "https://github.com/luis-soares/azure.git"
+        "upstream"
     ]
 }
