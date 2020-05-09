@@ -4,4 +4,4 @@
   inputs:
     WebSiteName: 'teste'
     VirtualApplication: 'teste'
-    Package: '$(System.DefaultWorkingDirectory)\**\*.zip'
+    Package: '$(System.DefaultWorkingDirectory)\**\*.zip' 
