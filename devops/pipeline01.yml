@@ -1,2 +1,7 @@
 #teste Luis
 #teste 05
+- task: IISWebAppDeploymentOnMachineGroup@0
+  inputs:
+    WebSiteName: 'teste'
+    VirtualApplication: 'teste'
+    Package: '$(System.DefaultWorkingDirectory)\**\*.zip'
